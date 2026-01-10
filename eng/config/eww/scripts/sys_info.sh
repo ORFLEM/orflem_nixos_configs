@@ -68,5 +68,5 @@ while true; do
 		LAST_OUTPUT="$OUTPUT"
 	fi
 
-	sleep 0.1
+	sleep 0.2
 done
