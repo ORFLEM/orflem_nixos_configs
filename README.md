@@ -11,6 +11,8 @@ System : `NixOS 25.11 (unstable)` and working for adding support ALT Linux regul
 ```
 Это конфиги для СТАЦИОНАРНОГО компьютера!!
 
+Hyprland БЕЗ доработки будет работать ТОЛЬКО на NixOS, hy3 плагина НЕТ в ALT Linux репозитории!
+
 Все новые фишки изначально появляются в русской локализации, т.к. я плохо знаю английский и его поддержка затруднена для меня!!!
 
 В данных конфигах есть спорные решения, которые не всем понравятся:
@@ -144,6 +146,8 @@ System : `NixOS 25.11 (unstable)` and working for adding support ALT Linux regul
 # Important
 ```
 These configs are for a DESKTOP computer!!
+
+Hyprland WITHOUT modifications will work ONLY on NixOS; the hy3 plugin is NOT available in the ALT Linux repository!
 
 All new features are released in the Russian localization first, as my English proficiency is limited and supporting it is challenging for me!!!
 
